@@ -197,12 +197,6 @@
   "value": -3, 
   "rarity": "Rare"
  }, 
- "Bloodlust (max 1-2)": {
-  "value_text": "Above Average", 
-  "max": null, 
-  "value": 3, 
-  "rarity": "Common"
- }, 
  "Raging Worgen": {
   "value_text": "Usually Good", 
   "max": null, 
@@ -1011,6 +1005,12 @@
   "value_text": "Usually Bad", 
   "max": null, 
   "value": -5, 
+  "rarity": "Common"
+ }, 
+ "Bloodlust": {
+  "value_text": "Above Average", 
+  "max": "1-2", 
+  "value": 3, 
   "rarity": "Common"
  }, 
  "Silvermoon Guardian": {

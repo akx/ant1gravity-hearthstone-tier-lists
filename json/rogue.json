@@ -323,6 +323,12 @@
   "value": -7, 
   "rarity": "Rare"
  }, 
+ "Assassinate": {
+  "value_text": "Great", 
+  "max": "2-3", 
+  "value": 8, 
+  "rarity": "Common"
+ }, 
  "Ironfur Grizzly": {
   "value_text": "Average", 
   "max": null, 
@@ -393,12 +399,6 @@
   "value_text": "Average", 
   "max": null, 
   "value": 1, 
-  "rarity": "Common"
- }, 
- "Argent Squire": {
-  "value_text": "Below Average", 
-  "max": null, 
-  "value": -3, 
   "rarity": "Common"
  }, 
  "Conceal": {
@@ -599,10 +599,10 @@
   "value": 10, 
   "rarity": "Common"
  }, 
- "Assassinate (max 2-3)": {
-  "value_text": "Great", 
+ "Argent Squire": {
+  "value_text": "Below Average", 
   "max": null, 
-  "value": 8, 
+  "value": -3, 
   "rarity": "Common"
  }, 
  "Tinkmaster Overspark": {

@@ -3,7 +3,7 @@ from lxml.etree import tostring
 from pprint import pprint
 import re, glob, json
 
-max_re = re.compile(r"\(max (\d+)\)", re.I)
+max_re = re.compile(r"\(max ([0-9-]+)\)", re.I)
 
 scale_values = {
 	"Top":		+10,
@@ -62,6 +62,9 @@ for fn in glob.glob("input/pub*"):
 			json.dump(values, outfh, indent=1)
 		
 		with file("pretty/%s.txt" % name, "wt") as outfh:
-			for name, info in sorted(values.iteritems(), key=lambda p:-p[1]["value"]):
+			for name, info in sorted(values.iteritems(), key=lambda p:(-p[1]["value"], p[0])):
 				value = info["value"]
+				if info["max"]:
+					name += " (*MAX %s*)" % info["max"]
+
 				print >>outfh, "%-30s .. %+3d .. %14s|%-14s # %s" % (name, value, "-" * -(value), "#" * (value), info["rarity"])
