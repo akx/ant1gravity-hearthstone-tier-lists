@@ -1,0 +1,178 @@
+Acidic Swamp Ooze              .. +10 ..               |##########     # Common
+Ysera                          .. +10 ..               |##########     # Legendary
+Azure Drake                    .. +10 ..               |##########     # Rare
+Argent Commander               .. +10 ..               |##########     # Rare
+Harvest Golem                  .. +10 ..               |##########     # Common
+Ragnaros the Firelord          .. +10 ..               |##########     # Legendary
+Chillwind Yeti                 .. +10 ..               |##########     # Common
+Shadow Madness                 .. +10 ..               |##########     # Rare
+Shadow Word: Pain              .. +10 ..               |##########     # Common
+Holy Nova                      .. +10 ..               |##########     # Common
+Scarlet Crusader               ..  +8 ..               |########       # Common
+Sylvanas Windrunner            ..  +8 ..               |########       # Legendary
+Cairne Bloodhoof               ..  +8 ..               |########       # Legendary
+Venture Co. Mercenary          ..  +8 ..               |########       # Common
+Stampeding Kodo                ..  +8 ..               |########       # Rare
+Sea Giant                      ..  +8 ..               |########       # Epic
+Auchenai Soulpriest            ..  +8 ..               |########       # Rare
+Dark Iron Dwarf                ..  +8 ..               |########       # Common
+Temple Enforcer                ..  +8 ..               |########       # Common
+Boulderfist Ogre               ..  +8 ..               |########       # Common
+Cabal Shadowpriest             ..  +8 ..               |########       # Epic
+Power Word: Shield             ..  +8 ..               |########       # Common
+Twilight Drake                 ..  +8 ..               |########       # Rare
+Sen'jin Shieldmasta            ..  +8 ..               |########       # Common
+Defender of Argus              ..  +8 ..               |########       # Rare
+Knife Juggler                  ..  +8 ..               |########       # Rare
+Injured Blademaster            ..  +8 ..               |########       # Rare
+Shattered Sun Cleric           ..  +8 ..               |########       # Common
+The Black Knight               ..  +8 ..               |########       # Legendary
+Lightspawn                     ..  +6 ..               |######         # Common
+Blood Knight                   ..  +6 ..               |######         # Epic
+Deathwing                      ..  +6 ..               |######         # Legendary
+Spellbreaker                   ..  +6 ..               |######         # Common
+Faceless Manipulator           ..  +6 ..               |######         # Epic
+Faerie Dragon                  ..  +6 ..               |######         # Common
+Violet Teacher                 ..  +6 ..               |######         # Rare
+Mad Bomber                     ..  +6 ..               |######         # Common
+Shadow Word: Death             ..  +6 ..               |######         # Common
+Imp Master                     ..  +6 ..               |######         # Rare
+Sunwalker                      ..  +6 ..               |######         # Rare
+Holy Fire                      ..  +6 ..               |######         # Rare
+Cult Master                    ..  +6 ..               |######         # Common
+Onyxia                         ..  +6 ..               |######         # Legendary
+Earthen Ring Farseer           ..  +6 ..               |######         # Common
+Silver Hand Knight             ..  +6 ..               |######         # Common
+Hogger                         ..  +6 ..               |######         # Legendary
+Fen Creeper                    ..  +5 ..               |#####          # Common
+Amani Berserker                ..  +5 ..               |#####          # Common
+Northshire Cleric              ..  +5 ..               |#####          # Common
+Raging Worgen                  ..  +5 ..               |#####          # Common
+Holy Smite                     ..  +5 ..               |#####          # Common
+Stranglethorn Tiger            ..  +5 ..               |#####          # Common
+Worgen Infiltrator             ..  +5 ..               |#####          # Common
+Ancient Brewmaster             ..  +5 ..               |#####          # Common
+Loot Hoarder                   ..  +5 ..               |#####          # Common
+Youthful Brewmaster            ..  +5 ..               |#####          # Common
+Gnomish Inventor               ..  +5 ..               |#####          # Common
+Frostwolf Warlord              ..  +3 ..               |###            # Common
+Harrison Jones                 ..  +3 ..               |###            # Legendary
+Illidan Stormrage              ..  +3 ..               |###            # Legendary
+Jungle Panther                 ..  +3 ..               |###            # Common
+Malygos                        ..  +3 ..               |###            # Legendary
+Thoughtsteal                   ..  +3 ..               |###            # Common
+Abomination                    ..  +3 ..               |###            # Rare
+Flesheating Ghoul              ..  +3 ..               |###            # Common
+Wild Pyromancer                ..  +3 ..               |###            # Rare
+Gurubashi Berserker            ..  +3 ..               |###            # Common
+Emperor Cobra                  ..  +3 ..               |###            # Rare
+Ogre Magi                      ..  +3 ..               |###            # Common
+Molten Giant                   ..  +3 ..               |###            # Epic
+Stormwind Knight               ..  +3 ..               |###            # Common
+Bloodfen Raptor                ..  +3 ..               |###            # Common
+Leeroy Jenkins                 ..  +3 ..               |###            # Legendary
+Big Game Hunter                ..  +3 ..               |###            # Epic
+Spiteful Smith                 ..  +3 ..               |###            # Common
+Gruul                          ..  +3 ..               |###            # Legendary
+Prophet Velen                  ..  +3 ..               |###            # Legendary
+Acolyte of Pain                ..  +3 ..               |###            # Common
+Frost Elemental                ..  +3 ..               |###            # Common
+Stormwind Champion             ..  +3 ..               |###            # Common
+Shadowform                     ..  +3 ..               |###            # Epic
+Mind Control                   ..  +3 ..               |###            # Common
+Mind Control Tech              ..  +3 ..               |###            # Rare
+Alexstrasza                    ..  +1 ..               |#              # Legendary
+Demolisher                     ..  +1 ..               |#              # Rare
+Ravenholdt Assassin            ..  +1 ..               |#              # Rare
+Stormpike Commando             ..  +1 ..               |#              # Common
+Darkscale Healer               ..  +1 ..               |#              # Common
+Bloodmage Thalnos              ..  +1 ..               |#              # Legendary
+Ironfur Grizzly                ..  +1 ..               |#              # Common
+Gadgetzan Auctioneer           ..  +1 ..               |#              # Rare
+Dire Wolf Alpha                ..  +1 ..               |#              # Common
+Sunfury Protector              ..  +1 ..               |#              # Rare
+Bluegill Warrior               ..  +1 ..               |#              # Common
+Tinkmaster Overspark           ..  +1 ..               |#              # Legendary
+Nat Pagle                      ..  +1 ..               |#              # Legendary
+Oasis Snapjaw                  ..  +1 ..               |#              # Common
+Wolfrider                      ..  +1 ..               |#              # Common
+Razorfen Hunter                ..  +1 ..               |#              # Common
+Archmage                       ..  +1 ..               |#              # Common
+Reckless Rocketeer             ..  +1 ..               |#              # Common
+The Beast                      ..  +1 ..               |#              # Legendary
+King Mukla                     ..  +1 ..               |#              # Legendary
+Dragonling Mechanic            ..  -3 ..            ---|               # Common
+Mass Dispel                    ..  -3 ..            ---|               # Rare
+Arcane Golem                   ..  -3 ..            ---|               # Rare
+Booty Bay Bodyguard            ..  -3 ..            ---|               # Common
+Ironforge Rifleman             ..  -3 ..            ---|               # Common
+Lord of the Arena              ..  -3 ..            ---|               # Common
+Mind Vision                    ..  -3 ..            ---|               # Common
+Questing Adventurer            ..  -3 ..            ---|               # Rare
+War Golem                      ..  -3 ..            ---|               # Common
+Novice Engineer                ..  -3 ..            ---|               # Common
+Kobold Geomancer               ..  -3 ..            ---|               # Common
+Argent Squire                  ..  -3 ..            ---|               # Common
+Bloodsail Raider               ..  -3 ..            ---|               # Common
+Mogu'shan Warden               ..  -3 ..            ---|               # Common
+River Crocolisk                ..  -3 ..            ---|               # Common
+Ironbeak Owl                   ..  -3 ..            ---|               # Common
+Abusive Sergeant               ..  -3 ..            ---|               # Common
+Crazed Alchemist               ..  -3 ..            ---|               # Rare
+Pint-Sized Summoner            ..  -3 ..            ---|               # Rare
+Silvermoon Guardian            ..  -3 ..            ---|               # Common
+Leper Gnome                    ..  -5 ..          -----|               # Common
+Young Priestess                ..  -5 ..          -----|               # Rare
+Captain Greenskin              ..  -5 ..          -----|               # Legendary
+Lightwarden                    ..  -5 ..          -----|               # Rare
+Inner Fire                     ..  -5 ..          -----|               # Common
+Murloc Warleader               ..  -5 ..          -----|               # Epic
+Master Swordsmith              ..  -5 ..          -----|               # Rare
+Priestess of Elune             ..  -5 ..          -----|               # Common
+Baron Geddon                   ..  -5 ..          -----|               # Legendary
+Ancient Mage                   ..  -5 ..          -----|               # Rare
+Lightwell                      ..  -5 ..          -----|               # Rare
+Bloodsail Corsair              ..  -5 ..          -----|               # Rare
+Southsea Captain               ..  -5 ..          -----|               # Epic
+Millhouse Manastorm            ..  -5 ..          -----|               # Legendary
+Elven Archer                   ..  -5 ..          -----|               # Common
+Windfury Harpy                 ..  -5 ..          -----|               # Common
+Silverback Patriarch           ..  -5 ..          -----|               # Common
+Mountain Giant                 ..  -5 ..          -----|               # Epic
+Divine Spirit                  ..  -5 ..          -----|               # Common
+Nightblade                     ..  -5 ..          -----|               # Common
+Mindgames                      ..  -5 ..          -----|               # Epic
+Mana Addict                    ..  -7 ..        -------|               # Rare
+Hungry Crab                    ..  -7 ..        -------|               # Epic
+Thrallmar Farseer              ..  -7 ..        -------|               # Common
+Secretkeeper                   ..  -7 ..        -------|               # Rare
+Lorewalker Cho                 ..  -7 ..        -------|               # Legendary
+Dread Corsair                  ..  -7 ..        -------|               # Common
+Coldlight Seer                 ..  -7 ..        -------|               # Rare
+Circle of Healing              ..  -7 ..        -------|               # Common
+Coldlight Oracle               ..  -7 ..        -------|               # Rare
+Mana Wraith                    ..  -7 ..        -------|               # Rare
+Murloc Tidehunter              ..  -7 ..        -------|               # Common
+Nozdormu                       ..  -7 ..        -------|               # Legendary
+Voodoo Doctor                  ..  -7 ..        -------|               # Common
+Frostwolf Grunt                ..  -7 ..        -------|               # Common
+Core Hound                     ..  -7 ..        -------|               # Common
+Ancient Watcher                ..  -7 ..        -------|               # Rare
+Doomsayer                      ..  -7 ..        -------|               # Epic
+Alarm-o-Bot                    ..  -7 ..        -------|               # Rare
+Dalaran Mage                   ..  -7 ..        -------|               # Common
+Raid Leader                    ..  -7 ..        -------|               # Common
+Angry Chicken                  ..  -7 ..        -------|               # Rare
+Tauren Warrior                 ..  -7 ..        -------|               # Common
+Murloc Tidecaller              ..  -7 ..        -------|               # Rare
+Murloc Raider                  .. -10 ..     ----------|               # Common
+Silence                        .. -10 ..     ----------|               # Common
+Mind Blast                     .. -10 ..     ----------|               # Common
+Magma Rager                    .. -10 ..     ----------|               # Common
+Shieldbearer                   .. -10 ..     ----------|               # Common
+Goldshire Footman              .. -10 ..     ----------|               # Common
+Southsea Deckhand              .. -10 ..     ----------|               # Common
+Young Dragonhawk               .. -10 ..     ----------|               # Common
+Wisp                           .. -10 ..     ----------|               # Common
+Grimscale Oracle               .. -10 ..     ----------|               # Common
+Stonetusk Boar                 .. -10 ..     ----------|               # Common
