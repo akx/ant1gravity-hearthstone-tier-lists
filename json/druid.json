@@ -1,0 +1,1064 @@
+{
+ "Acidic Swamp Ooze": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Common"
+ }, 
+ "Fen Creeper": {
+  "value_text": "Usually Good", 
+  "max": null, 
+  "value": 5, 
+  "rarity": "Common"
+ }, 
+ "Wrath": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Common"
+ }, 
+ "Alexstrasza": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Legendary"
+ }, 
+ "Mana Addict": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Rare"
+ }, 
+ "Hungry Crab": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Epic"
+ }, 
+ "Demolisher": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Rare"
+ }, 
+ "Blood Knight": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Epic"
+ }, 
+ "Worgen Infiltrator": {
+  "value_text": "Usually Good", 
+  "max": null, 
+  "value": 5, 
+  "rarity": "Common"
+ }, 
+ "Deathwing": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Legendary"
+ }, 
+ "Scarlet Crusader": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Common"
+ }, 
+ "Amani Berserker": {
+  "value_text": "Usually Good", 
+  "max": null, 
+  "value": 5, 
+  "rarity": "Common"
+ }, 
+ "Cenarius": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Legendary"
+ }, 
+ "Dragonling Mechanic": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Nourish": {
+  "value_text": "Above Average", 
+  "max": "1", 
+  "value": 3, 
+  "rarity": "Rare"
+ }, 
+ "Ravenholdt Assassin": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Rare"
+ }, 
+ "Thrallmar Farseer": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Frostwolf Warlord": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Harrison Jones": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Legendary"
+ }, 
+ "Stormpike Commando": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Secretkeeper": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Rare"
+ }, 
+ "Azure Drake": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Rare"
+ }, 
+ "Sylvanas Windrunner": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Legendary"
+ }, 
+ "Spellbreaker": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Common"
+ }, 
+ "Illidan Stormrage": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Legendary"
+ }, 
+ "Argent Commander": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Rare"
+ }, 
+ "Jungle Panther": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Common"
+ }, 
+ "Cairne Bloodhoof": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Legendary"
+ }, 
+ "Malygos": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Legendary"
+ }, 
+ "Faceless Manipulator": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Epic"
+ }, 
+ "Darkscale Healer": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Arcane Golem": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Rare"
+ }, 
+ "Starfire": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Common"
+ }, 
+ "Raging Worgen": {
+  "value_text": "Usually Good", 
+  "max": null, 
+  "value": 5, 
+  "rarity": "Common"
+ }, 
+ "Faerie Dragon": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Common"
+ }, 
+ "Venture Co. Mercenary": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Common"
+ }, 
+ "Abomination": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Rare"
+ }, 
+ "Booty Bay Bodyguard": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Young Priestess": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Rare"
+ }, 
+ "Wild Growth": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Ironforge Rifleman": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Flesheating Ghoul": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Common"
+ }, 
+ "Captain Greenskin": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Legendary"
+ }, 
+ "Stampeding Kodo": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Rare"
+ }, 
+ "Stranglethorn Tiger": {
+  "value_text": "Usually Good", 
+  "max": null, 
+  "value": 5, 
+  "rarity": "Common"
+ }, 
+ "Lorewalker Cho": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Legendary"
+ }, 
+ "Bloodmage Thalnos": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Legendary"
+ }, 
+ "Sea Giant": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Epic"
+ }, 
+ "Bite": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Rare"
+ }, 
+ "Dread Corsair": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Lord of the Arena": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Violet Teacher": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Rare"
+ }, 
+ "Coldlight Seer": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Rare"
+ }, 
+ "Lightwarden": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Rare"
+ }, 
+ "Windfury Harpy": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Common"
+ }, 
+ "Raid Leader": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Innervate": {
+  "value_text": "Average", 
+  "max": "1-2", 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Dark Iron Dwarf": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Common"
+ }, 
+ "Murloc Warleader": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Epic"
+ }, 
+ "Coldlight Oracle": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Rare"
+ }, 
+ "Savage Roar": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Common"
+ }, 
+ "Questing Adventurer": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Rare"
+ }, 
+ "Wild Pyromancer": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Rare"
+ }, 
+ "Boulderfist Ogre": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Common"
+ }, 
+ "Mad Bomber": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Common"
+ }, 
+ "War Golem": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Common"
+ }, 
+ "Savagery": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Rare"
+ }, 
+ "Gurubashi Berserker": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Leper Gnome": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Common"
+ }, 
+ "Healing Touch": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Harvest Golem": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Common"
+ }, 
+ "Twilight Drake": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Rare"
+ }, 
+ "Novice Engineer": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Murloc Tidehunter": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Claw": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Common"
+ }, 
+ "Ancient of Lore": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Epic"
+ }, 
+ "Emperor Cobra": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Rare"
+ }, 
+ "Mana Wraith": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Rare"
+ }, 
+ "Sen'jin Shieldmasta": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Common"
+ }, 
+ "Gadgetzan Auctioneer": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Rare"
+ }, 
+ "Defender of Argus": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Rare"
+ }, 
+ "Dire Wolf Alpha": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Kobold Geomancer": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Sunfury Protector": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Rare"
+ }, 
+ "Sunwalker": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Rare"
+ }, 
+ "Ragnaros the Firelord": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Legendary"
+ }, 
+ "Master Swordsmith": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Rare"
+ }, 
+ "Ogre Magi": {
+  "value_text": "Usually Good", 
+  "max": null, 
+  "value": 5, 
+  "rarity": "Common"
+ }, 
+ "Nozdormu": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Legendary"
+ }, 
+ "Power of the Wild": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Common"
+ }, 
+ "Bluegill Warrior": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Ancient Brewmaster": {
+  "value_text": "Usually Good", 
+  "max": null, 
+  "value": 5, 
+  "rarity": "Common"
+ }, 
+ "Keeper of the Grove": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Rare"
+ }, 
+ "Molten Giant": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Epic"
+ }, 
+ "Priestess of Elune": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Common"
+ }, 
+ "Voodoo Doctor": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Baron Geddon": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Legendary"
+ }, 
+ "Chillwind Yeti": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Common"
+ }, 
+ "Ysera": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Legendary"
+ }, 
+ "Ironbark Protector": {
+  "value_text": "Good", 
+  "max": "2", 
+  "value": 6, 
+  "rarity": "Common"
+ }, 
+ "Imp Master": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Rare"
+ }, 
+ "Argent Squire": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Tinkmaster Overspark": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Legendary"
+ }, 
+ "Bloodsail Raider": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Stormwind Knight": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Common"
+ }, 
+ "Ancient Mage": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Rare"
+ }, 
+ "Razorfen Hunter": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Loot Hoarder": {
+  "value_text": "Usually Good", 
+  "max": null, 
+  "value": 5, 
+  "rarity": "Common"
+ }, 
+ "Ancient of War": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Epic"
+ }, 
+ "Bloodfen Raptor": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Common"
+ }, 
+ "Frostwolf Grunt": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Core Hound": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Mogu'shan Warden": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Common"
+ }, 
+ "Leeroy Jenkins": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Legendary"
+ }, 
+ "Soul of the Forest": {
+  "value_text": "Above Average", 
+  "max": "1", 
+  "value": 3, 
+  "rarity": "Common"
+ }, 
+ "Knife Juggler": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Rare"
+ }, 
+ "Youthful Brewmaster": {
+  "value_text": "Usually Good", 
+  "max": null, 
+  "value": 5, 
+  "rarity": "Common"
+ }, 
+ "Injured Blademaster": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Rare"
+ }, 
+ "Force of Nature": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Epic"
+ }, 
+ "Ancient Watcher": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Rare"
+ }, 
+ "Ironbeak Owl": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Cult Master": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Common"
+ }, 
+ "Bloodsail Corsair": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Rare"
+ }, 
+ "Big Game Hunter": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Epic"
+ }, 
+ "Spiteful Smith": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Common"
+ }, 
+ "Nat Pagle": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Legendary"
+ }, 
+ "Gruul": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Legendary"
+ }, 
+ "Oasis Snapjaw": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Southsea Captain": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Epic"
+ }, 
+ "Ironfur Grizzly": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Starfall": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Rare"
+ }, 
+ "Doomsayer": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Epic"
+ }, 
+ "Nightblade": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Common"
+ }, 
+ "Abusive Sergeant": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Magma Rager": {
+  "value_text": "Terrible", 
+  "max": null, 
+  "value": -10, 
+  "rarity": "Common"
+ }, 
+ "Shattered Sun Cleric": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Common"
+ }, 
+ "Millhouse Manastorm": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Legendary"
+ }, 
+ "Shieldbearer": {
+  "value_text": "Terrible", 
+  "max": null, 
+  "value": -10, 
+  "rarity": "Common"
+ }, 
+ "Onyxia": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Legendary"
+ }, 
+ "Acolyte of Pain": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Common"
+ }, 
+ "Frost Elemental": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Common"
+ }, 
+ "Gnomish Inventor": {
+  "value_text": "Usually Good", 
+  "max": null, 
+  "value": 5, 
+  "rarity": "Common"
+ }, 
+ "Elven Archer": {
+  "value_text": "Usually Bad", 
+  "max": null, 
+  "value": -5, 
+  "rarity": "Common"
+ }, 
+ "Wolfrider": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Alarm-o-Bot": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Rare"
+ }, 
+ "Mark of Nature": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Archmage": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Earthen Ring Farseer": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Common"
+ }, 
+ "Silverback Patriarch": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Silver Hand Knight": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Common"
+ }, 
+ "Mountain Giant": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Epic"
+ }, 
+ "Goldshire Footman": {
+  "value_text": "Terrible", 
+  "max": null, 
+  "value": -10, 
+  "rarity": "Common"
+ }, 
+ "Southsea Deckhand": {
+  "value_text": "Terrible", 
+  "max": null, 
+  "value": -10, 
+  "rarity": "Common"
+ }, 
+ "River Crocolisk": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Young Dragonhawk": {
+  "value_text": "Terrible", 
+  "max": null, 
+  "value": -10, 
+  "rarity": "Common"
+ }, 
+ "Moonfire": {
+  "value_text": "Terrible", 
+  "max": null, 
+  "value": -10, 
+  "rarity": "Common"
+ }, 
+ "Crazed Alchemist": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Rare"
+ }, 
+ "Stormwind Champion": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Common"
+ }, 
+ "The Black Knight": {
+  "value_text": "Great", 
+  "max": null, 
+  "value": 8, 
+  "rarity": "Legendary"
+ }, 
+ "Wisp": {
+  "value_text": "Terrible", 
+  "max": null, 
+  "value": -10, 
+  "rarity": "Common"
+ }, 
+ "Murloc Raider": {
+  "value_text": "Terrible", 
+  "max": null, 
+  "value": -10, 
+  "rarity": "Common"
+ }, 
+ "Dalaran Mage": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Reckless Rocketeer": {
+  "value_text": "Average", 
+  "max": null, 
+  "value": 1, 
+  "rarity": "Common"
+ }, 
+ "Pint-Sized Summoner": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Rare"
+ }, 
+ "Naturalize": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Angry Chicken": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Rare"
+ }, 
+ "Hogger": {
+  "value_text": "Good", 
+  "max": null, 
+  "value": 6, 
+  "rarity": "Legendary"
+ }, 
+ "The Beast": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Legendary"
+ }, 
+ "Druid of the Claw": {
+  "value_text": "Top", 
+  "max": null, 
+  "value": 10, 
+  "rarity": "Common"
+ }, 
+ "Mark of the Wild": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Silvermoon Guardian": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Common"
+ }, 
+ "Grimscale Oracle": {
+  "value_text": "Terrible", 
+  "max": null, 
+  "value": -10, 
+  "rarity": "Common"
+ }, 
+ "Tauren Warrior": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Common"
+ }, 
+ "Stonetusk Boar": {
+  "value_text": "Terrible", 
+  "max": null, 
+  "value": -10, 
+  "rarity": "Common"
+ }, 
+ "King Mukla": {
+  "value_text": "Below Average", 
+  "max": null, 
+  "value": -3, 
+  "rarity": "Legendary"
+ }, 
+ "Mind Control Tech": {
+  "value_text": "Above Average", 
+  "max": null, 
+  "value": 3, 
+  "rarity": "Rare"
+ }, 
+ "Murloc Tidecaller": {
+  "value_text": "Bad", 
+  "max": null, 
+  "value": -7, 
+  "rarity": "Rare"
+ }
+}
