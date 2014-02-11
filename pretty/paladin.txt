@@ -13,6 +13,7 @@ Tirion Fordring                .. +10 ..               |##########     # Legenda
 Truesilver Champion            .. +10 ..               |##########     # Common
 Ysera                          .. +10 ..               |##########     # Legendary
 Argent Protector               ..  +8 ..               |########       # Common
+
 Blood Knight                   ..  +8 ..               |########       # Epic
 Boulderfist Ogre               ..  +8 ..               |########       # Common
 Cairne Bloodhoof               ..  +8 ..               |########       # Legendary
@@ -31,6 +32,7 @@ The Black Knight               ..  +8 ..               |########       # Legenda
 Twilight Drake                 ..  +8 ..               |########       # Rare
 Venture Co. Mercenary          ..  +8 ..               |########       # Common
 Blessing of Kings              ..  +6 ..               |######         # Common
+
 Deathwing                      ..  +6 ..               |######         # Legendary
 Earthen Ring Farseer           ..  +6 ..               |######         # Common
 Faceless Manipulator           ..  +6 ..               |######         # Epic
@@ -49,6 +51,7 @@ Silver Hand Knight             ..  +6 ..               |######         # Common
 Spellbreaker                   ..  +6 ..               |######         # Common
 Sunwalker                      ..  +6 ..               |######         # Rare
 Amani Berserker                ..  +5 ..               |#####          # Common
+
 Ancient Brewmaster             ..  +5 ..               |#####          # Common
 Fen Creeper                    ..  +5 ..               |#####          # Common
 Gnomish Inventor               ..  +5 ..               |#####          # Common
@@ -58,6 +61,7 @@ Stranglethorn Tiger            ..  +5 ..               |#####          # Common
 Worgen Infiltrator             ..  +5 ..               |#####          # Common
 Youthful Brewmaster            ..  +5 ..               |#####          # Common
 Acolyte of Pain                ..  +3 ..               |###            # Common
+
 Blessing of Wisdom             ..  +3 ..               |###            # Common
 Bloodfen Raptor                ..  +3 ..               |###            # Common
 Dire Wolf Alpha                ..  +3 ..               |###            # Common
@@ -73,6 +77,7 @@ Stormwind Knight               ..  +3 ..               |###            # Common
 Violet Teacher                 ..  +3 ..               |###            # Rare
 Wild Pyromancer                ..  +3 ..               |###            # Rare
 Abomination                    ..  +1 ..               |#              # Rare
+
 Archmage                       ..  +1 ..               |#              # Common
 Big Game Hunter                ..  +1 ..               |#              # Epic
 Bluegill Warrior               ..  +1 ..               |#              # Common
@@ -95,6 +100,7 @@ Sunfury Protector              ..  +1 ..               |#              # Rare
 Tinkmaster Overspark           ..  +1 ..               |#              # Legendary
 Wolfrider                      ..  +1 ..               |#              # Common
 Abusive Sergeant               ..  -3 ..            ---|               # Common
+
 Alexstrasza                    ..  -3 ..            ---|               # Legendary
 Arcane Golem                   ..  -3 ..            ---|               # Rare
 Argent Squire                  ..  -3 ..            ---|               # Common
@@ -120,6 +126,7 @@ Silvermoon Guardian            ..  -3 ..            ---|               # Common
 The Beast                      ..  -3 ..            ---|               # Legendary
 War Golem                      ..  -3 ..            ---|               # Common
 Ancient Mage                   ..  -5 ..          -----|               # Rare
+
 Baron Geddon                   ..  -5 ..          -----|               # Legendary
 Blessed Champion               ..  -5 ..          -----|               # Rare
 Blessing of Might              ..  -5 ..          -----|               # Common
@@ -140,6 +147,7 @@ Southsea Captain               ..  -5 ..          -----|               # Epic
 Windfury Harpy                 ..  -5 ..          -----|               # Common
 Young Priestess                ..  -5 ..          -----|               # Rare
 Alarm-o-Bot                    ..  -7 ..        -------|               # Rare
+
 Ancient Watcher                ..  -7 ..        -------|               # Rare
 Angry Chicken                  ..  -7 ..        -------|               # Rare
 Coldlight Oracle               ..  -7 ..        -------|               # Rare
@@ -168,6 +176,7 @@ Tauren Warrior                 ..  -7 ..        -------|               # Common
 Thrallmar Farseer              ..  -7 ..        -------|               # Common
 Voodoo Doctor                  ..  -7 ..        -------|               # Common
 Eye for an Eye                 .. -10 ..     ----------|               # Common
+
 Goldshire Footman              .. -10 ..     ----------|               # Common
 Grimscale Oracle               .. -10 ..     ----------|               # Common
 Magma Rager                    .. -10 ..     ----------|               # Common

@@ -18,6 +18,18 @@ scale_values = {
 	"Terrible":	-10,
 }
 
+# Bleeeehhhhh.
+
+class_extras = {}
+
+class_extras["druid"] = {
+	"Swipe": {"value_text": "Always pick", "max": None, "value": 13}, 
+}
+
+class_extras["shaman"] = {
+	"Fire Elemental": {"value_text": "Always pick", "max": None, "value": 13}, 
+}
+
 
 def parse_file(fh):
 	p = parse(fh).getroot()
@@ -57,14 +69,19 @@ for fn in glob.glob("input/pub*"):
 	with file(fn, "rb") as fh:
 		active_tab, values = parse_file(fh)
 		name = active_tab.lower().strip()
+		values.update(class_extras.get(name, {}))
 		
 		with file("json/%s.json" % name, "wb") as outfh:
 			json.dump(values, outfh, indent=1)
 		
 		with file("pretty/%s.txt" % name, "wt") as outfh:
+			last_value = None
 			for name, info in sorted(values.iteritems(), key=lambda p:(-p[1]["value"], p[0])):
 				value = info["value"]
 				if info["max"]:
 					name += " (*MAX %s*)" % info["max"]
 
-				print >>outfh, "%-30s .. %+3d .. %14s|%-14s # %s" % (name, value, "-" * -(value), "#" * (value), info["rarity"])
+				print >>outfh, "%-30s .. %+3d .. %14s|%-14s # %s" % (name, value, "-" * -(value), "#" * (value), info.get("rarity") or "")
+				if last_value and value != last_value:
+					print >>outfh
+				last_value = value

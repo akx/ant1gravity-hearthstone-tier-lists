@@ -623,6 +623,11 @@
   "value": 1, 
   "rarity": "Common"
  }, 
+ "Fire Elemental": {
+  "value_text": "Always pick", 
+  "value": 13, 
+  "max": null
+ }, 
  "Ancient Mage": {
   "value_text": "Usually Bad", 
   "max": null, 

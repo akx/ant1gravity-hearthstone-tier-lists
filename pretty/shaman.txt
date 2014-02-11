@@ -1,4 +1,6 @@
+Fire Elemental                 .. +13 ..               |#############  # 
 Acidic Swamp Ooze              .. +10 ..               |##########     # Common
+
 Argent Commander               .. +10 ..               |##########     # Rare
 Azure Drake                    .. +10 ..               |##########     # Rare
 Chillwind Yeti                 .. +10 ..               |##########     # Common
@@ -10,6 +12,7 @@ Lightning Storm                .. +10 ..               |##########     # Rare
 Ragnaros the Firelord          .. +10 ..               |##########     # Legendary
 Ysera                          .. +10 ..               |##########     # Legendary
 Boulderfist Ogre               ..  +8 ..               |########       # Common
+
 Cairne Bloodhoof               ..  +8 ..               |########       # Legendary
 Defender of Argus              ..  +8 ..               |########       # Rare
 Knife Juggler                  ..  +8 ..               |########       # Rare
@@ -27,6 +30,7 @@ Twilight Drake                 ..  +8 ..               |########       # Rare
 Venture Co. Mercenary          ..  +8 ..               |########       # Common
 Violet Teacher                 ..  +8 ..               |########       # Rare
 Blood Knight                   ..  +6 ..               |######         # Epic
+
 Cult Master                    ..  +6 ..               |######         # Common
 Deathwing                      ..  +6 ..               |######         # Legendary
 Doomhammer                     ..  +6 ..               |######         # Epic
@@ -49,6 +53,7 @@ Spellbreaker                   ..  +6 ..               |######         # Common
 Stormwind Champion             ..  +6 ..               |######         # Common
 Sunwalker                      ..  +6 ..               |######         # Rare
 Amani Berserker                ..  +5 ..               |#####          # Common
+
 Ancient Brewmaster             ..  +5 ..               |#####          # Common
 Fen Creeper                    ..  +5 ..               |#####          # Common
 Forked Lightning               ..  +5 ..               |#####          # Common
@@ -61,6 +66,7 @@ Unbound Elemental              ..  +5 ..               |#####          # Common
 Worgen Infiltrator             ..  +5 ..               |#####          # Common
 Youthful Brewmaster            ..  +5 ..               |#####          # Common
 Abomination                    ..  +3 ..               |###            # Rare
+
 Acolyte of Pain                ..  +3 ..               |###            # Common
 Archmage                       ..  +3 ..               |###            # Common
 Bloodfen Raptor                ..  +3 ..               |###            # Common
@@ -77,6 +83,7 @@ Stormwind Knight               ..  +3 ..               |###            # Common
 Wild Pyromancer                ..  +3 ..               |###            # Rare
 Windspeaker                    ..  +3 ..               |###            # Common
 Al'Akir the Windlord           ..  +1 ..               |#              # Legendary
+
 Ancestral Spirit               ..  +1 ..               |#              # Rare
 Big Game Hunter                ..  +1 ..               |#              # Epic
 Bluegill Warrior               ..  +1 ..               |#              # Common
@@ -99,6 +106,7 @@ Sunfury Protector              ..  +1 ..               |#              # Rare
 Tinkmaster Overspark           ..  +1 ..               |#              # Legendary
 Wolfrider                      ..  +1 ..               |#              # Common
 Abusive Sergeant               ..  -3 ..            ---|               # Common
+
 Alexstrasza                    ..  -3 ..            ---|               # Legendary
 Arcane Golem                   ..  -3 ..            ---|               # Rare
 Argent Squire                  ..  -3 ..            ---|               # Common
@@ -122,6 +130,7 @@ Silvermoon Guardian            ..  -3 ..            ---|               # Common
 The Beast                      ..  -3 ..            ---|               # Legendary
 War Golem                      ..  -3 ..            ---|               # Common
 Ancient Mage                   ..  -5 ..          -----|               # Rare
+
 Baron Geddon                   ..  -5 ..          -----|               # Legendary
 Bloodsail Corsair              ..  -5 ..          -----|               # Rare
 Captain Greenskin              ..  -5 ..          -----|               # Legendary
@@ -140,6 +149,7 @@ Windfury                       ..  -5 ..          -----|               # Common
 Windfury Harpy                 ..  -5 ..          -----|               # Common
 Young Priestess                ..  -5 ..          -----|               # Rare
 Alarm-o-Bot                    ..  -7 ..        -------|               # Rare
+
 Ancestral Healing              ..  -7 ..        -------|               # Common
 Ancient Watcher                ..  -7 ..        -------|               # Rare
 Angry Chicken                  ..  -7 ..        -------|               # Rare
@@ -166,6 +176,7 @@ Tauren Warrior                 ..  -7 ..        -------|               # Common
 Thrallmar Farseer              ..  -7 ..        -------|               # Common
 Voodoo Doctor                  ..  -7 ..        -------|               # Common
 Goldshire Footman              .. -10 ..     ----------|               # Common
+
 Grimscale Oracle               .. -10 ..     ----------|               # Common
 Magma Rager                    .. -10 ..     ----------|               # Common
 Murloc Raider                  .. -10 ..     ----------|               # Common

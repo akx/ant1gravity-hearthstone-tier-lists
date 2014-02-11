@@ -557,6 +557,11 @@
   "value": 10, 
   "rarity": "Rare"
  }, 
+ "Swipe": {
+  "value_text": "Always pick", 
+  "value": 13, 
+  "max": null
+ }, 
  "Molten Giant": {
   "value_text": "Good", 
   "max": null, 
